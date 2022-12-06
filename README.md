@@ -20,7 +20,7 @@ The management team of Rockbuster Stealth LLC is looking into data-driven answer
 * Final analysis was carried using SQL out in PostgreSQL
 
 ## Final Deliverables and Results 
-* Technical results were prepared in Excel
-* Data dictionary 
+* [Technical results were prepared in Excel](https://github.com/ayshahassan/Rockbuster-Analysis-SQL/blob/main/SQL%20Technical%20Results.xlsx)
+* [Data dictionary](https://github.com/ayshahassan/Rockbuster-Analysis-SQL/blob/main/Data%20Dictionary.pdf) 
 * Visualizations created using [Tableau](https://public.tableau.com/app/profile/aysha.kalam/viz/3_10-PresentingSQLResults/3_10PresentingSQLResults)
-* Report with a detailed launch strategy
+* [Report with a detailed launch strategy](https://github.com/ayshahassan/Rockbuster-Analysis-SQL/blob/main/Rockbuster%20Stealth%20-%20Data%20Analysis%20for%20Relaunch%20Strategy.pdf)
